@@ -1,0 +1,11 @@
+run_mode: prod
+email:
+  region: us-east-1
+  access_key_id: xxxxx
+  secret_key: xxx
+  sender: xxx@163.com
+
+sms:
+  region: us-east-1
+  access_key_id: xxxxx
+  secret_key: xxx
